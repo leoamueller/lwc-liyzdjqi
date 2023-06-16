@@ -1,0 +1,7 @@
+{
+  "name": "@lwc-studio/leoamueller.lwc-liyzdjqi",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx lwc-cli@latest serve Udtg6L4YRLZKWMQ0otYD --open"
+  }
+}
